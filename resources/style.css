@@ -1,10 +1,13 @@
 * {
   font-family: Helvetica, Arial, sans-serif;
+  background-color: black;
+  display: inline-block;
 }
 
 
 h1 {
-  color: blue;
+  color: white;
+  text-align: center;
 }
 
 h2 {
